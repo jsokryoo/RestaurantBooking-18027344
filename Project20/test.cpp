@@ -2,38 +2,38 @@
 #include "gmock/gmock.h"
 #include "../Project20/BookingScheduler.cpp"
 
-TEST(BookingSchedulerTest, ¿¹¾àÀº_Á¤½Ã¿¡¸¸_°¡´ÉÇÏ´Ù_Á¤½Ã°¡_¾Æ´Ñ°æ¿ì_¿¹¾àºÒ°¡) {
+TEST(BookingSchedulerTest, ì˜ˆì•½ì€_ì •ì‹œì—ë§Œ_ê°€ëŠ¥í•˜ë‹¤_ì •ì‹œê°€_ì•„ë‹Œê²½ìš°_ì˜ˆì•½ë¶ˆê°€) {
+	  
+}
+
+TEST(BookingSchedulerTest, ì˜ˆì•½ì€_ì •ì‹œì—ë§Œ_ê°€ëŠ¥í•˜ë‹¤_ì •ì‹œì¸_ê²½ìš°_ì˜ˆì•½ê°€ëŠ¥) {
+	 
+}
+
+TEST(BookingSchedulerTest, ì‹œê°„ëŒ€ë³„_ì¸ì›ì œí•œì´_ìžˆë‹¤_ê°™ì€_ì‹œê°„ëŒ€ì—_Capacity_ì´ˆê³¼í• _ê²½ìš°_ì˜ˆì™¸ë°œìƒ) {
 
 }
 
-TEST(BookingSchedulerTest, ¿¹¾àÀº_Á¤½Ã¿¡¸¸_°¡´ÉÇÏ´Ù_Á¤½ÃÀÎ_°æ¿ì_¿¹¾à°¡´É) {
+TEST(BookingSchedulerTest, ì‹œê°„ëŒ€ë³„_ì¸ì›ì œí•œì´_ìžˆë‹¤_ê°™ì€_ì‹œê°„ëŒ€ê°€_ë‹¤ë¥´ë©´_Capacity_ì°¨ìžˆì–´ë„_ìŠ¤ì¼€ì¥´_ì¶”ê°€_ì„±ê³µ) {
 
 }
 
-TEST(BookingSchedulerTest, ½Ã°£´ëº°_ÀÎ¿øÁ¦ÇÑÀÌ_ÀÖ´Ù_°°Àº_½Ã°£´ë¿¡_Capacity_ÃÊ°úÇÒ_°æ¿ì_¿¹¿Ü¹ß»ý) {
+TEST(BookingSchedulerTest, ì˜ˆì•½ì™„ë£Œì‹œ_SMSëŠ”_ë¬´ì¡°ê±´_ë°œì†¡) {
 
 }
 
-TEST(BookingSchedulerTest, ½Ã°£´ëº°_ÀÎ¿øÁ¦ÇÑÀÌ_ÀÖ´Ù_°°Àº_½Ã°£´ë°¡_´Ù¸£¸é_Capacity_Â÷ÀÖ¾îµµ_½ºÄÉÁì_Ãß°¡_¼º°ø) {
+TEST(BookingSchedulerTest, ì´ë©”ì¼ì´_ì—†ëŠ”_ê²½ìš°ì—ëŠ”_ì´ë©”ì¼_ë¯¸ë°œì†¡) {
 
 }
 
-TEST(BookingSchedulerTest, ¿¹¾à¿Ï·á½Ã_SMS´Â_¹«Á¶°Ç_¹ß¼Û) {
+TEST(BookingSchedulerTest, ì´ë©”ì¼ì´_ìžˆëŠ”_ê²½ìš°ì—ëŠ”_ì´ë©”ì¼_ë°œì†¡) {
 
 }
 
-TEST(BookingSchedulerTest, ÀÌ¸ÞÀÏÀÌ_¾ø´Â_°æ¿ì¿¡´Â_ÀÌ¸ÞÀÏ_¹Ì¹ß¼Û) {
+TEST(BookingSchedulerTest, í˜„ìž¬ë‚ ì§œê°€_ì¼ìš”ì¼ì¸_ê²½ìš°_ì˜ˆì•½ë¶ˆê°€_ì˜ˆì™¸ì²˜ë¦¬) {
 
 }
 
-TEST(BookingSchedulerTest, ÀÌ¸ÞÀÏÀÌ_ÀÖ´Â_°æ¿ì¿¡´Â_ÀÌ¸ÞÀÏ_¹ß¼Û) {
-
-}
-
-TEST(BookingSchedulerTest, ÇöÀç³¯Â¥°¡_ÀÏ¿äÀÏÀÎ_°æ¿ì_¿¹¾àºÒ°¡_¿¹¿ÜÃ³¸®) {
-
-}
-
-TEST(BookingSchedulerTest, ÇöÀç³¯Â¥°¡_ÀÏ¿äÀÏÀÌ_¾Æ´Ñ°æ¿ì_¿¹¾à°¡´É) {
+TEST(BookingSchedulerTest, í˜„ìž¬ë‚ ì§œê°€_ì¼ìš”ì¼ì´_ì•„ë‹Œê²½ìš°_ì˜ˆì•½ê°€ëŠ¥) {
 
 }

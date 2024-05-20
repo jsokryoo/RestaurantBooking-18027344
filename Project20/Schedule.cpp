@@ -11,7 +11,7 @@ public:
 		numberOfPeople{ numberOfPeople },
 		customer{ customer } {
 	}
-
+	 
 	tm getDateTime() {
 		return dateTime;
 	}

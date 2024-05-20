@@ -7,7 +7,7 @@ class Customer {
 public:
 	Customer(string name, string phoneNumber) :
 		name{ name },
-		phoneNumber{ phoneNumber } {
+		phoneNumber{ phoneNumber } { 
 	}
 
 	Customer(string name, string phoneNumber, string email) :
